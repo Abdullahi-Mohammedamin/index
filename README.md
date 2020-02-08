@@ -1,9 +1,9 @@
 # Index
 #### {It contains a webapage of my projects}, {8-2-2019}
-### AUTHOR **{Abdullahi Mohammed Amin Ali}**
+### AUTHOR: **{Abdullahi Mohammed Amin Ali}**
 ## Description
 {this is a project on my storyline }
-## Setup/Installation Requirements
+## Setup instructions
 * This is a great place
 * to list setup instructions
 * in a simple
